@@ -4,7 +4,7 @@ extern "C"
 #endif
 
 
-#ifdef --cplusplus 
+#ifdef __cplusplus 
 }
 #endif
 
